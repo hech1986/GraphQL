@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="GCG_Web">
+    <serverData>
+      <paths name="GCG_Web">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="GraphQL" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="franckmuller">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="franckmuller (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
